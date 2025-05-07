@@ -1,4 +1,4 @@
-<script>
+
         const url = 'https://api.restful-api.dev/objects';
 
         window.onload = function () {
@@ -225,4 +225,4 @@
             document.getElementById('price').value = ''
             document.getElementById('name').focus()
         }
-    </script>
+    
